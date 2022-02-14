@@ -5,5 +5,5 @@ The user can upload an image of the apparel to be searched either by an image fi
 
 Results, along with URLs to websites including the searched image.
 
-![image](https://user-images.githubusercontent.com/55141040/153900848-f30fec83-8c05-4c69-8ee4-cfbfa7d8ace7.png)
+![image](https://user-images.githubusercontent.com/55141040/153901146-19fb62eb-f5fe-447f-b651-1a8a82591502.png)
 
